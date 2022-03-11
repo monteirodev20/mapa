@@ -1,7 +1,8 @@
 # mapa project
 
 ## Habilidades
-- OOP (Programação orientada a objetos)
+- OOP moderno: classes, construtores, herança prototípica, encapsulamento, etc.
+- JavaScript assíncrono: loop de eventos, promessas, async/await, chamadas AJAX e APIs
 - Geolocalização 
 - Planejamento de projeto e mais
 
