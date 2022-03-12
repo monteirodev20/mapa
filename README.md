@@ -1,5 +1,5 @@
 # mapa project
-Neste webApp você poderá marcar no mapa locais para execícios (corrida/ciclismo).
+Neste webApp você poderá marcar no mapa locais para exercícios (corrida/ciclismo).
 ## Habilidades
 - OOP moderno: classes, construtores, herança prototípica, encapsulamento, etc.
 - JavaScript assíncrono: loop de eventos, promessas, async/await, chamadas AJAX e APIs
