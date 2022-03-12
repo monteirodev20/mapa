@@ -10,7 +10,7 @@ Neste webApp você poderá marcar no mapa locais para exercícios (corrida/cicli
 Ao clicar em qualquer parte do mapa, você podera marcar um ponto de treino (corrida / ciclismo), introduzindo os dados na area a direita. E ao clicar nos pontos de treinos marcados, o ponto clicado será centralizado.
 
 ## Arquitetura 
-<img src="Mapty-architecture-final.png" width="500px">
+<a href=""><img src="Mapty-architecture-final.png" class="media-object  img-responsive img-thumbnail" width="500px"></a>
 
 ## Fluxograma
 <img src="Mapty-flowchart.png" width="500px">
